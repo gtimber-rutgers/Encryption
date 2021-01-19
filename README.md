@@ -1,5 +1,5 @@
 # Encryption
-# This is a collection of encrption programs
+# This is a collection of encryption programs
 
-# 1. RSA algorithm
-# 2. AES algorithm 
+# 1. AES algorithm
+# 2. RSA algorithm 
