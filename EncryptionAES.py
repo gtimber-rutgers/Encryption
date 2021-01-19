@@ -18,7 +18,7 @@ Encrypt Steps:
 4. Result is the Ciphertext
 
 Decrypt Steps:
-Decode is to invert each step above. ## Not included in ths code
+Decode is to invert each step above. ## Not included in this code
 
 """
 
